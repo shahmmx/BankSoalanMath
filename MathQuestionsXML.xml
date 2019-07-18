@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <Question>Antara integer berikut merupakan integer positif, kecuali?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">-(+1)</Answer>
+      <Answer correct="false">-(-1)</Answer>
+      <Answer correct="false">1</Answer>
+      <Answer correct="false">2</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Antara integer berikut, yang manakah integer positif?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">-(-2)</Answer>
+      <Answer correct="false">-1</Answer>
+      <Answer correct="false">-(+2)</Answer>
+      <Answer correct="false">+(-3)</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Antara integer berikut merupakan integer negatif, kecuali?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">+1</Answer>
+      <Answer correct="false">-2</Answer>
+      <Answer correct="false">-3</Answer>
+      <Answer correct="false">+(-1)</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+	<Question>Antara integer berikut, yang manakah integer negatif?</Question>
+	<Image></Image>
+	<Video></Video>
+	<Answers>
+	  <Answer correct="true">+(-3)</Answer>
+	  <Answer correct="false">1</Answer>
+	  <Answer correct="false">-(-2)</Answer>
+	  <Answer correct="false">+(+2)</Answer>
+	</Answers>
+	<Bonus>100</Bonus>
+	<Time>8</Time>
+  </record>
+  <record>
+	<Question>Susun berat (kg) pasu bunga di bawah mengikut tertib menaik.</Question>
+	<Image>ImageB1F1S06</Image>
+	<Video></Video>
+	<Answers>
+	  <Answer correct="true">1kg, 3kg, 5kg</Answer>
+	  <Answer correct="false">5kg, 3kg, 1kg</Answer>
+	  <Answer correct="false">3kg, 5kg, 1kg</Answer>
+	  <Answer correct="false">1kg, 5kg, 3kg</Answer>
+	</Answers>
+	<Bonus>100</Bonus>
+	<Time>8</Time>
+  </record>
+  <record>
+    <Question>Susun integer di bawah mengikut tertib menurun.</Question>
+    <Image>ImageB1F1S07</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">4,1,0,-1,-2,-5</Answer>
+      <Answer correct="false">-5,-2,-1,0,1,4</Answer>
+      <Answer correct="false">-5,-1,-2,0,1,4</Answer>
+      <Answer correct="false">4,1,0,-5,-2,-1</Answer>
+    </Answers>
+    <Bonus>250</Bonus>
+    <Time>10</Time>
+  </record>
+	<record>
+    <Question>Nilaikan persamaan di bawah.</Question>
+    <Image>ImageB1F1S08</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">-6</Answer>
+      <Answer correct="false">-2</Answer>
+      <Answer correct="false">-14</Answer>
+      <Answer correct="false">6</Answer>
+    </Answers>
+    <Bonus>250</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Nilaikan persamaan di bawah.</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">-6</Answer>
+      <Answer correct="false">-2</Answer>
+      <Answer correct="false">-14</Answer>
+      <Answer correct="false">6</Answer>
+    </Answers>
+    <Bonus>250</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Yang manakah BUKAN integer?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">0.1</Answer>
+      <Answer correct="false">1</Answer>
+      <Answer correct="false">0</Answer>
+      <Answer correct="false">-1</Answer>
+    </Answers>
+    <Bonus>250</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Yang manakah integer?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">0</Answer>
+      <Answer correct="false">5/7</Answer>
+      <Answer correct="false">2.1</Answer>
+      <Answer correct="false">-5.2</Answer>
+    </Answers>
+    <Bonus>250</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Jika +10 mewakili 10 meter di atas aras laut, maka -10 mewakili?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">10 meter di bawah aras laut</Answer>
+      <Answer correct="false">di permukaan laut</Answer>
+      <Answer correct="false">1 meter di atas permukaan laut</Answer>
+      <Answer correct="false">1 meter di bawah permukaan laut</Answer>
+    </Answers>
+    <Bonus>500</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Jika +50 mewakili pergerakan 50 meter ke arah utara, maka -50 mewakili?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">pergerakan 50 meter ke arah selatan</Answer>
+      <Answer correct="false">pergerakan 50 meter ke arah timur</Answer>
+      <Answer correct="false">pergerakan 50 meter ke arah barat</Answer>
+      <Answer correct="false">tiada pergerakan</Answer>
+    </Answers>
+    <Bonus>500</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Jika +100 mewakili keuntungan sebanyak RM100, maka kerugian sebanyak RM100 diwakili oleh?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">-100</Answer>
+      <Answer correct="false">0</Answer>
+      <Answer correct="false">+100</Answer>
+      <Answer correct="false">-200</Answer>
+    </Answers>
+    <Bonus>500</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Nilaikan persamaan di bawah.</Question>
+    <Image>ImageB1F1S14</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">5</Answer>
+      <Answer correct="false">1</Answer>
+      <Answer correct="false">7</Answer>
+      <Answer correct="false">9</Answer>
+    </Answers>
+    <Bonus>500</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Nilaikan persamaan di bawah.</Question>
+    <Image>ImageB1F1S17</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">7</Answer>
+      <Answer correct="false">-7</Answer>
+      <Answer correct="false">-175</Answer>
+      <Answer correct="false">175</Answer>
+    </Answers>
+    <Bonus>500</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Nilaikan persamaan di bawah.</Question>
+    <Image>ImageB1F1S18</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">44</Answer>
+      <Answer correct="false">-8</Answer>
+      <Answer correct="false">8</Answer>
+      <Answer correct="false">-44</Answer>
+    </Answers>
+    <Bonus>1000</Bonus>
+    <Time>14</Time>
+  </record>
+  <record>
+    <Question>Nilaikan persamaan di bawah.</Question>
+    <Image>ImageB1F1S19</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">19</Answer>
+      <Answer correct="false">-186</Answer>
+      <Answer correct="false">-101</Answer>
+      <Answer correct="false">310</Answer>
+    </Answers>
+    <Bonus>1000</Bonus>
+    <Time>14</Time>
+  </record>
+  <record>
+    <Question>Sebuah syarikat mendapat keuntungan RM 17,200 pada tahun pertama dan mengalami kerugian RM 5,600 setiap tahun bagi dua tahun berturut-turut. Pada tahun keempat, kerugian yang dialami oleh syarikat itu adalah dua kali kerugian yang dialami pada tahun kedua. Berapakah kerugian yang dialami syarikat itu dalam tempoh empat tahun?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">RM 5,200</Answer>
+      <Answer correct="false">RM 400</Answer>
+      <Answer correct="false">RM 6,000</Answer>
+      <Answer correct="false">RM 10,800</Answer>
+    </Answers>
+    <Bonus>1000</Bonus>
+    <Time>14</Time>
+  </record>
+  <record>
+    <Question>Amir berniaga dan mendapat keuntungan RM 2,000 pada bulan pertama dan beliau mengalami kerugian RM 500 pada bulan kedua. Tetapi beliau mendapat keuntungan
+      RM 2,500 pada tahun ketiga. Berapakah keuntungan Amir dalam tempoh tiga tahun?
+    </Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">RM 4,000</Answer>
+      <Answer correct="false">RM 4,500</Answer>
+      <Answer correct="false">RM 5,000</Answer>
+      <Answer correct="false">RM 5,500</Answer>
+    </Answers>
+    <Bonus>1000</Bonus>
+    <Time>14</Time>
+  </record>
+  <record>
+    <Question>Nilaikan persamaan di bawah.</Question>
+    <Image>ImageB1F1S22</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">39</Answer>
+      <Answer correct="false">-16</Answer>
+      <Answer correct="false">-39</Answer>
+      <Answer correct="false">16</Answer>
+    </Answers>
+    <Bonus>1000</Bonus>
+    <Time>14</Time>
+  </record>
+  <record>
+    <Question>Nilaikan persamaan di bawah.</Question>
+    <Image>ImageB1F1S23</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">400</Answer>
+      <Answer correct="false">-40</Answer>
+      <Answer correct="false">40</Answer>
+      <Answer correct="false">-400</Answer>
+    </Answers>
+    <Bonus>2500</Bonus>
+    <Time>16</Time>
+  </record>
+  <record>
+    <Question>Nilaikan persamaan di bawah.</Question>
+    <Image>ImageB1F1S24</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">-50</Answer>
+      <Answer correct="false">15</Answer>
+      <Answer correct="false">-15</Answer>
+      <Answer correct="false">50</Answer>
+    </Answers>
+    <Bonus>2500</Bonus>
+    <Time>16</Time>
+  </record>
+  <record>
+    <Question>Susun integer di bawah mengikut tertib menurun.</Question>
+    <Image>ImageB1F1S25</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">59,36,27,-2,-40,-79</Answer>
+      <Answer correct="false">59,36,27,-79,-40,-2</Answer>
+      <Answer correct="false">-79,59,-40,36,27,-2</Answer>
+      <Answer correct="false">-79,59,36,-40,27,-2</Answer>
+    </Answers>
+    <Bonus>2500</Bonus>
+    <Time>16</Time>
+  </record>
+  <record>
+    <Question>Susun integer di bawah mengikut tertib menurun.</Question>
+    <Image>ImageB1F1S26</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">3.9,2.4,2.0,0,-1.5,-8.1</Answer>
+      <Answer correct="false">3.9,2.4,2.0,-1.5,-8.1,0 </Answer>
+      <Answer correct="false">-8.1,3.9,2.4,2.0,-1.5,0</Answer>
+      <Answer correct="false">3.9,0,2.4,-1.5,2.0,-8.1</Answer>
+    </Answers>
+    <Bonus>2500</Bonus>
+    <Time>16</Time>
+  </record>
+  <record>
+    <Question>Antara integer berikut, yang manakah integer positif?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">+(+29)</Answer>
+      <Answer correct="false">-(29)</Answer>
+      <Answer correct="false">-(+7)</Answer>
+      <Answer correct="false">+(-29)</Answer>
+    </Answers>
+    <Bonus>2500</Bonus>
+    <Time>16</Time>
+  </record>
+  <record>
+    <Question>Antara integer berikut, yang manakah integer positif?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">-(-54)</Answer>
+      <Answer correct="false">-80</Answer>
+      <Answer correct="false">-(+60)</Answer>
+      <Answer correct="false">+(-39)</Answer>
+    </Answers>
+    <Bonus>5000</Bonus>
+    <Time>18</Time>
+  </record>
+  <record>
+    <Question>Antara integer berikut, yang manakah integer positif?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">+(+5)</Answer>
+      <Answer correct="false">-7</Answer>
+      <Answer correct="false">+(-9)</Answer>
+      <Answer correct="false">-(+8)</Answer>
+    </Answers>
+    <Bonus>5000</Bonus>
+    <Time>18</Time>
+  </record>
+  <record>
+    <Question>Antara integer berikut, yang manakah integer negatif?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">-(+2)</Answer>
+      <Answer correct="false">+(+3)</Answer>
+      <Answer correct="false">-(-1)</Answer>
+      <Answer correct="false">+(3)</Answer>
+    </Answers>
+    <Bonus>5000</Bonus>
+    <Time>18</Time>
+  </record>
+  <record>
+    <Question>Yang manakah BUKAN integer?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">9.1</Answer>
+      <Answer correct="false">9</Answer>
+      <Answer correct="false">0</Answer>
+      <Answer correct="false">-9</Answer>
+    </Answers>
+    <Bonus>5000</Bonus>
+    <Time>18</Time>
+  </record>
+  <record>
+    <Question>Yang manakah BUKAN integer?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">-1.9</Answer>
+      <Answer correct="false">-1</Answer>
+      <Answer correct="false">4</Answer>
+      <Answer correct="false">2</Answer>
+    </Answers>
+    <Bonus>5000</Bonus>
+    <Time>18</Time>
+  </record>
+  <record>
+    <Question>Yang manakah ADALAH integer?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">0</Answer>
+      <Answer correct="false">-1.8</Answer>
+      <Answer correct="false">-1.9</Answer>
+      <Answer correct="false">1.5</Answer>
+    </Answers>
+    <Bonus>10000</Bonus>
+    <Time>20</Time>
+  </record>
+  <record>
+    <Question>Yang manakah ADALAH integer?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">50</Answer>
+      <Answer correct="false">-50.1</Answer>
+      <Answer correct="false">-50.5</Answer>
+      <Answer correct="false">50.1</Answer>
+    </Answers>
+    <Bonus>10000</Bonus>
+    <Time>20</Time>
+  </record>
+  <record>
+    <Question>Yang manakah ADALAH integer?</Question>
+    <Image>ImageB1F1S36</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">0.26</Answer>
+      <Answer correct="false">-1.86</Answer>
+      <Answer correct="false">1.86</Answer>
+      <Answer correct="false">-0.26</Answer>
+    </Answers>
+    <Bonus>10000</Bonus>
+    <Time>20</Time>
+  </record>
+  <record>
+    <Question>Nilaikan persamaan di bawah.</Question>
+    <Image>ImageB1F1S37</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">0.26</Answer>
+      <Answer correct="false">-1.86</Answer>
+      <Answer correct="false">1.86</Answer>
+      <Answer correct="false">-0.26</Answer>
+    </Answers>
+    <Bonus>10000</Bonus>
+    <Time>20</Time>
+  </record>
+  <record>
+    <Question>Nilaikan persamaan di bawah.?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">-46.48</Answer>
+      <Answer correct="false">22.99</Answer>
+      <Answer correct="false">-22.99</Answer>
+      <Answer correct="false">46.48</Answer>
+    </Answers>
+    <Bonus>10000</Bonus>
+    <Time>20</Time>
+  </record>
+  <record>
+    <Question>Antara berikut, yang manakah betul?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">34 >- 45</Answer>
+      <Answer correct="false">-59 &gt; 13</Answer>
+      <Answer correct="false">78 &gt; 134</Answer>
+      <Answer correct="false">27 &lt; 15</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Antara berikut, yang manakah betul?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">79 &gt; 13</Answer>
+      <Answer correct="false">-2 &gt; 1</Answer>
+      <Answer correct="false">49 &lt; 25</Answer>
+      <Answer correct="false">-34 &gt; 34</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+  <record>
+    <Question>Antara berikut, yang manakah salah?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">78 &gt; 134</Answer>
+      <Answer correct="false">-59 &lt; 13</Answer>
+      <Answer correct="false">27 &gt; 15</Answer>
+      <Answer correct="false">34 >- 45</Answer>
+    </Answers>
+    <Bonus>100</Bonus>
+    <Time>8</Time>
+  </record>
+<record>
+	<Question>Antara berikut, yang manakah salah?</Question>
+	<Image></Image>
+	<Video></Video>
+	<Answers>
+	  <Answer correct="true">49 &lt; 25</Answer>
+	  <Answer correct="false">-2 &lt; 1</Answer>
+	  <Answer correct="false">79 &gt; 13</Answer>
+	  <Answer correct="false">-34 &lt; 34</Answer>
+	</Answers>
+	<Bonus>100</Bonus>
+	<Time>8</Time>
+  </record>
+  <record>
+	<Question>Jika +45 mewakili 45 meter di atas aras laut, maka -45 mewakili?</Question>
+	<Image></Image>
+	<Video></Video>
+	<Answers>
+	  <Answer correct="true">45 meter di bawah aras laut</Answer>
+	  <Answer correct="false">di permukaan laut</Answer>
+	  <Answer correct="false">45 meter di atas permukaan laut</Answer>
+	  <Answer correct="false">1 meter di bawah permukaan laut</Answer>
+	</Answers>
+	<Bonus>100</Bonus>
+	<Time>8</Time>
+  </record>
+  <record>
+    <Question>Berapakah bilangan integer daripada -7 hingga 3?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">11</Answer>
+      <Answer correct="false">8</Answer>
+      <Answer correct="false">9</Answer>
+      <Answer correct="false">10</Answer>
+    </Answers>
+    <Bonus>250</Bonus>
+    <Time>10</Time>
+  </record>
+	<record>
+    <Question>Berapakah bilangan integer daripada -13 hingga -1?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">13</Answer>
+      <Answer correct="false">9</Answer>
+      <Answer correct="false">10</Answer>
+      <Answer correct="false">12</Answer>
+    </Answers>
+    <Bonus>250</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Berapakah bilangan integer daripada  56 hingga 60?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">5</Answer>
+      <Answer correct="false">4</Answer>
+      <Answer correct="false">6</Answer>
+      <Answer correct="false">7</Answer>
+    </Answers>
+    <Bonus>250</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Berapakah bilangan integer daripada 0 hingga 6?</Question>
+    <Image></Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">7</Answer>
+      <Answer correct="false">8</Answer>
+      <Answer correct="false">9</Answer>
+      <Answer correct="false">10</Answer>
+    </Answers>
+    <Bonus>250</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>How many pins are in this image?</Question>
+    <Image>Image02</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">13</Answer>
+      <Answer correct="false">24</Answer>
+      <Answer correct="false">1</Answer>
+      <Answer correct="false">15</Answer>
+    </Answers>
+    <Bonus>250</Bonus>
+    <Time>10</Time>
+  </record>
+  <record>
+    <Question>Tentukan simbol berikut.</Question>
+    <Image>ImageB1F1S47</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">&lt;</Answer>
+      <Answer correct="false">&gt;</Answer>
+      <Answer correct="false">≥</Answer>
+      <Answer correct="false">≤</Answer>
+    </Answers>
+    <Bonus>500</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Tentukan simbol berikut.</Question>
+    <Image>ImageB1F1S48</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">&lt;</Answer>
+      <Answer correct="false">&gt;</Answer>
+      <Answer correct="false">≥</Answer>
+      <Answer correct="false">≤</Answer>
+    </Answers>
+    <Bonus>500</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Tentukan simbol berikut.</Question>
+    <Image>ImageB1F1S49</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">&lt;</Answer>
+      <Answer correct="false">&gt;</Answer>
+      <Answer correct="false">≥</Answer>
+      <Answer correct="false">≤</Answer>
+    </Answers>
+    <Bonus>500</Bonus>
+    <Time>12</Time>
+  </record>
+  <record>
+    <Question>Tentukan simbol berikut.</Question>
+    <Image>ImageB1F1S50</Image>
+	<Video></Video>
+    <Answers>
+      <Answer correct="true">&lt;</Answer>
+      <Answer correct="false">&gt;</Answer>
+      <Answer correct="false">≥</Answer>
+      <Answer correct="false">≤</Answer>
+    </Answers>
+    <Bonus>500</Bonus>
+    <Time>12</Time>
+  </record>
+  
+</data-set>
